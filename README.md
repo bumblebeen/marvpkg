@@ -1,0 +1,1 @@
+Learning Go is a-okay! Awesome.
